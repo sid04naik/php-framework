@@ -1,5 +1,5 @@
 
-# Lighweight Core PHP MVC framework
+# Lighweight Core PHP MVC framework [![Build Status](https://travis-ci.com/sid04naik/php-framework.svg?branch=master)](https://travis-ci.com/sid04naik/php-framework)
 This is a lighweight PHP framework to build a website.
 
 ## Target people
